@@ -1,0 +1,35 @@
+To setup kali linus, i went to my browser then typed download kali linux iso file in their official website. i then scrolled down on the page and saw kali linux 64 bit of about 4.2GB
+i then clicked on download and it started downloading which i did waited for it to finish downloading.
+after it has finished downloading i then went to my download on the fule explorer and i saw it there. confirmed it has finished downloading.
+
+
+NOW IT IS TIME TO INSTALL IT ON THE VM
+I then launched the vm and click on NEW to create a new virtual machine,named the vm as KALILINUX2025 then selected the folder location where the vm files will be installed. then on the version i selected DEBIAN 64bits and clicked on next on the menu.
+I allocated the ram which was 8GB and the proccessors to be used. then the virtual harddrive i allocated 24GB to be used. after which i clicked on finished.
+after creating the vm i clicked on kali then selected SETTINGS.
+set the clipboard as bidirectional
+then scrolled to storage clicked on IDE>>>>>and EMPTY to add the kali iso the vm
+by clicking on the disk sign to import the ISO file to the storage
+then i went to the network selected the adapter and put on default first by selectin NAT
+then clicked ok 
+and that was all for the set up 
+
+
+TIME TO LAUNCH IT AND INSTALL ON THE VM
+I clicked start to begin on the VM
+and wait for it to power up
+after powering up
+select graphucal install to start the installation 
+i selected the system language and location and click continue
+and select the keyboard language 
+then i entered kali as the host name 
+left the domain name empty 
+then created user name and password and selected to use the entire disk and select the virtual disk
+click all in one patition
+and clicked continue 
+after loading a menu comes up 
+select desktop environment and click continue
+and wait for it to install which will last to about 15 minutes 
+then install the bootloader by clicking yes and select the virtual drive and click continue 
+
+After installation, reboot your computer and log in with your username and password
