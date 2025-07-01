@@ -1,0 +1,33 @@
+To setup windows 10, i went to my browser, typed getintopc to download the windows 10 iso. then on getintopc i windows 10 . i then scrolled down on the page and saw windows 10. 64 bit of about 4.2GB
+i then clicked on download and it started downloading which i did waited for it to finish downloading.
+after it has finished downloading i then went to my download on the file explorer and i saw it there. confirmed it has finished downloading.
+
+
+NOW IT IS TIME TO INSTALL IT ON THE VM
+I then launched the vm and click on NEW to create a new virtual machine,named the vm as windows 10 64bits then selected the folder location where the vm files will be installed. then on the version i selected windows 10 64bits and clicked on next on the menu.
+I allocated the ram which was 8GB and the proccessors to be used. then the virtual harddrive i allocated 24GB to be used. after which i clicked on finished.
+after creating the vm i clicked on kali then selected SETTINGS.
+set the clipboard as bidirectional
+then scrolled to storage clicked on IDE>>>>>and EMPTY to add the windows 10 iso to the vm
+by clicking on the disk sign to import the ISO file to the storage
+then i went to the network selected the adapter and put on default first by selectin NAT
+then clicked ok 
+and that was all for the set up 
+
+
+After setting up the windows 10 on the vm 
+i clicked start to start the machine and the installation 
+after the loading, a menu appeared saying to select english 
+then i click next 
+then install appeared and i clicked install
+the and interface came out to select the version of the windows to ne installed 
+then i clicked on windows 10 pro 64bits 
+it now loaded to a that brought out the storage allocated to it from the vm 
+then i selected the 24GB allocation and clicked format 
+then clicked next to install.
+
+
+after it has finished installing, it rebooted and a menu came out to put the owners name and password 
+then clicked enter 
+selected the time zone and dates 
+then waited for it to finish up 
