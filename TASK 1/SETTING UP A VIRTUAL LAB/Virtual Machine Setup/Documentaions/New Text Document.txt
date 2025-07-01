@@ -1,1 +1,23 @@
-FULL EXPLANNATIONS
+			
+			FULL EXPLANNATIONS
+
+In installing the virtual box, i had to go to my edge browser on my laptop and search download virtualbox.then located the first web clicked on oracle where the
+where the windows installer is, then selected 64bits and clicked on download virtualbox-7.1.6 version exe
+waited for it to download, after which i scrolled to my browser download found it fully downloaded.
+
+to install it the software i had to  go to my computers locate download adouble clicked on it to initiate the installation.
+On the next screen, i saw a list of the shortcuts and file associations the installation will create, i also left the pre-selected VirtualBox shortcuts as it is and click on Next button
+i checked all the boxes that needed to be checked then click next and created shotcut to the desktop
+
+
+
+
+
+
+
+
+
+
+
+
+
