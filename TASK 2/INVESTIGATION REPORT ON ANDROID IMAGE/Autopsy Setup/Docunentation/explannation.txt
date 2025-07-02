@@ -1,0 +1,12 @@
+to instal the autopsy software, i will first of all go to my browser then search download autopsy .
+then on the first page you ll see the download button. click on it and select 64bit since my operating systen is 64bit version 
+
+After it has succesfully downloaded, go to the file explorer and scroll down to download
+on download you ll see the raw fill.
+To install the autopsy, double click on the exe file on the download and follow the prompt by the installer 
+you ll see welcome to the autopsy setup wizard 
+then click next 
+after clicking next you ll see ready to install 
+click install and the program will start installing on the pc
+After the installer has finished you ll see click finish 
+and you are all set.
