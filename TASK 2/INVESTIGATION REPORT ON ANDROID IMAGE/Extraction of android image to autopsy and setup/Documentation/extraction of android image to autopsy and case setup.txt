@@ -1,0 +1,31 @@
+To extract the android image which i will be using for the investigation 
+i will first of all go to the browser and download through github which was initially provided during the training 
+after i have downloaded it i ll have to extract it using 7zip 
+when it has been extracted you ll see the file as data at the download section 
+
+
+Now to start the investigation
+i ll launch my autopsy app 
+once it opens........................
+- select new case 
+- name the case 
+- choose the base directlty 
+- browse to document folder 
+- select next 
+
+-write the case number
+- and the agent investigating
+-phone number 
+-email address 
+-notes 
+- now click next on the menu
+
+-once the next menu comes up 
+-click next 
+-select data source 
+-select logical files
+-select data source
+- click LOCAL files then select ADD and select the DATA file in download 
+- click select 
+-Then configure import 
+select only android analyzer and uncheck the rest since we are only working on android image
