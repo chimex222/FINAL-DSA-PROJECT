@@ -1,0 +1,5 @@
+After i successfully set up the virtual lab, the two virtual machine communicated with each other 
+
+by pinging each of the static ID that i asigned to each of them
+so for you to ping that of the kali, you login unto the windows virtual machine and do so, and for you to ping windows 
+you login into that of kali and ping the IP of the windows.
