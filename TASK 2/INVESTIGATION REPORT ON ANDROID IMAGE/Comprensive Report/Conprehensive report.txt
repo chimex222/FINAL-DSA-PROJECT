@@ -1,0 +1,103 @@
+INVESTIGATION ON MR SAM 
+DEFENDANT CASE NO. DSA/CS/SQ1/012
+
+
+
+CRIMINAL COMPLAINT BY TELEPHONE OR OTHER RELIABLE ELECTRONIC MEANS
+
+
+I, Nwankwo Chineme Solomon  the complainant in this matter, affirm that the following statements are accurate to the best of my knowledge and belief. Starting no later than March 17th, 2024, at approximately 04:19:10 WAT and continuing at least throughout March 2024, in the county of Nigeria, specifically in the Economic District Capital of Lagos, and beyond, the defendant engaged in a conspiracy to establish a fraudulent investment platform aimed at deceiving unsuspecting victims into investing in a non-existent business opportunity.
+
+
+
+AFFIDAFIT
+I.NWANKWO CHINEME SOLOMON, being duly seen, declares and state as follows.
+
+
+
+BACKGROUND
+March 2025 as a Special Agent. My present assignment is at the High-Tech Organized Crime Squad's portharcourt city  Field Office, where my main responsibility is to look into business email compromise ("BEC") and cyber-enabled fraud schemes. I've taken part in a lot of computer-crime investigations throughout my time as a DSA Special Agent. Furthermore, the DSA and other organizations have provided me with both official and informal training in computer-related investigations, computer technology.
+
+
+INVESTIGATION METHODOLOGY
+The investigation involved a digital forensics analysis of the fraudulent system, including analysis of system logs that   were used by the user to carry out his operation
+In carrying out this investigation, I deployed the following tools so that I could explore and gather the necessary information as regards the fraudulent activities
+TOOLS USED: Laptop, autopsy software
+
+
+FINDINGS
+Samuel Jackson Liveston is a Nigerian national living in Lagos State. According to the DSA's investigation, SAMMY's opulent lifestyle is funded by crime. He is a leader in a transnational network that facilitates computer intrusions and fraudulent schemes, including BEC schemes, targeting victims globally to steal hundreds of millions of dollars. ABBAS collaborated with Coconspirator 1 and Coconspirator 2 to commit fraud and money laundering
+
+
+This affidavit details fraud schemes involving SAMMY.  Messages obtained on Coconspirator 1's Android phone (examined under a federal search request) show that SAMMY, Coconspirator 1, and Coconspirator 2, along with others, scammed victims in Lagos State of roughly $105,200.  Below is a sample (Exhibit A) from his Android phone conversation with his co-conspirator (Conspirator 1 & 2).
+1.	Hey, I've got a new scam idea. we need to discuss.
+2.	Sure, I'm in. What's the plan this time?
+3.	Let's create a fake investment website and lure people into Investing in a non-existent cryptocurrency. We'll promise huge returns. 4.
+4.	sounds good. Do you have the website ready?
+5.	Hey Egbon, I've set up a new website for our next venture. Check it out: https://apyeth.gifts/
+6.	I feel you man, I am in on this fully, but not high value client we go Target this time around.
+7.	Sure, enough of this text messages. Meet me over Google Meet by 10pm. Here is the meeting link: https://meet.google.com/abcd-efgh
+8.	8. Nice work, Sammy. I'll take a look at the site. Are we using the same tactics as before? 
+9.	Yes, but this time we're targeting investors with promises of exclusive access to a "revolutionary" crypto currency technology. The website layout is designed to mimic legitimacy, complete with fake testimonials and fabricated investment portfolios.
+10.	Sounds convincing. Payment gateway nkor? Are we still using the same Bitcoin wallet address?
+11.	Yes, use the same Bitcoin wallet address as before: 16AtGJbaxL2kmzx4mW5ocpT2ysTWxmacWn.
+12.	12. No, I've set up a new wallet address for this operation. Here it is: 1K1KMHpynJHQRbhzKHyik6yaJuQYxSaZCm
+13.	Got it. I'll update the payment instructions on the website accordingly. When we dey go live?
+14.	We'll lauch the website next week. In the meantime, spread the "good news" discreetly through our Network of affilliates and social media channels, telegram is very important. We want to create a buzz without attracting unwanted attention. 
+15.	Understood omo iya mi. I'll handle the promotional activities and
+
+
+ANALYSIS
+SAMMY (SAM) and Coconspirator 1 communicated about laundering millions of dollars from various fraudulent schemes and computer intrusions, including a fraudulent one. Analysis of Coconspirator 1's online accounts revealed that he tasked money mule crews for various fraudulent schemes, including BEC scams and cyber-heists.  Coconspirator 1 used the Nigerian phone number +2348032111669 ("Phone Number 1") to discuss fraudulent schemes and money laundering.  Phone Number 1 was one of the phone numbers used by SAMMY (SAM) in 2024 and 2025.
+Based on federal search warrants obtained in this District, I reviewed data from Coconspirator 1's Android phone and a Bitcoin online Wallet account (the "Online Account"), as well as other law enforcement personnel's reviews and discussions with the Nigerian State Secrete Services (SSS) and DSA personnel.  a. Coconspirator 1's Android phone showed Phone Number 1 (+2348032111669) and the contact name "Sam."  The phone also included a link to a website created by "Sam's" co-conspirator, https://apyeth.gifts/.  b. Coconspirator 1's Android phone was searched for Phone Number 1 and the contact name "Sam," which revealed messaging discussions between "Sam" and Coconspirator 1.
+With the following crypto wallet: 1K1KMHpynJHQRbhzKHyik6yaJuQYxSaZCm
+
+
+
+CALL LOGS 
+PHONE NUMBERS			START DATE/TIME
+9.71566E+11				2024-03-16 20:45:54 WAT
+8032111669				2024-03-16 20:49 50 WAT
+8032111225				2024-03-16 20:51:59 WAT
+8032111669				2024-03-17 02:54:56 WAT
+8032111225				2024-03-17 16:17:36 WAT
+8032111225				2024-03-17 16:18:04 WAT
+8032111225				2024-03-17 16:18:22 WAT
+872345678				2024-03-17 16:21:46 WAT
+8032111669				2024-03-17 16:24:09 WAT
+9.71544E+11				2024-03-17 16:23:25 WAT
+8032111133				2024-03-17 16:25:20 WAT
+8032111669				2024-03-17 16:36:15 WAT
+8032111669				2024-03-17 16:36:21 WAT
+8032111669				2024-03-17 16:36:28 WAT
+
+
+
+		LIST OF ALL INSTALLED APPS
+Wallettrust
+Google android youtube
+Squareup.cash
+Twitter
+Whatssap
+Wallettrust.applpy.crypto
+
+
+CONCLUSION
+The investigation revealed vulnerabilities in his online practices, which were exploited by malicious actors by Mr. Sam
+
+
+
+RECOMMENDATION FOR FUTURE ACTIONS
+1.	Ensure compliance with relevant laws and regulations regarding cryptocurrency transactions
+2.	Ensure you are aware of the website you are working with
+3.	Stay informed about cybersecurity threats and best practices to prevent future incidents
+
+
+
+
+
+
+
+
+
+
